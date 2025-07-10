@@ -1,0 +1,7 @@
+=== SUMMARY ===
+Each example demonstrates how the Single Responsibility Principle:
+1. Makes classes focused on one specific task
+2. Improves code maintainability and testability
+3. Reduces coupling between different responsibilities
+4. Makes the system more flexible and easier to extend
+5. Follows the principle: 'A class should have only one reason to change'
