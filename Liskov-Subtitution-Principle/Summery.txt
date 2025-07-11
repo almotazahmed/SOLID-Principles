@@ -1,0 +1,6 @@
+console.log("\n=== KEY TAKEAWAYS ===");
+console.log("1. Subtypes must be substitutable for their base types");
+console.log("2. Don't strengthen preconditions in subtypes");
+console.log("3. Don't weaken postconditions in subtypes");
+console.log("4. Don't throw new exceptions that the base type doesn't throw");
+console.log("5. Preserve the behavioral contract of the base class");
